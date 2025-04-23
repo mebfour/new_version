@@ -1,8 +1,7 @@
-package Commands.Ordin;
+package Server.Commands.Ordin;
 
 import CollectionManagement.RouteCollectionManager;
-import Commands.BaseCom.BaseCommand;
-import Commands.Command;
+import Server.Commands.Command;
 
 public class ExitCommand implements Command {
     private final RouteCollectionManager manager;

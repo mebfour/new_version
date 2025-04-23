@@ -1,6 +1,6 @@
 package CollectionManagement;
 
-import Domain.Route;
+import Objects.Route;
 
 import java.util.Date;
 import java.util.LinkedHashMap;

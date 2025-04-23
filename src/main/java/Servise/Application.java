@@ -1,9 +1,9 @@
 package Servise;
 
 import CollectionManagement.RouteCollectionManager;
-import Commands.CommandConfigurator;
-import Commands.CommandExecutor;
-import Commands.CommandList;
+import Server.Commands.CommandConfigurator;
+import Server.Commands.CommandExecutor;
+import Server.Commands.CommandList;
 import Exceptions.CommandException;
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Domain;
+package Objects;
 
 public class Route {
 }

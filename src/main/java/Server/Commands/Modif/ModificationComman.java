@@ -1,6 +1,4 @@
-package Commands.Modif;
-
-import Commands.Command;
+package Server.Commands.Modif;
 
 /**
  *  Интерфейс для команд, изменяющих коллекцию

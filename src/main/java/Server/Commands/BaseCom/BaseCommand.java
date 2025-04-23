@@ -1,6 +1,6 @@
-package Commands.BaseCom;
+package Server.Commands.BaseCom;
 
-import Commands.Command;
+import Server.Commands.Command;
 import CollectionManagement.RouteCollectionManager;
 
 /**

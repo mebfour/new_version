@@ -1,4 +1,4 @@
-package Commands;
+package Server.Commands;
 
 /**
  * Прародитель всех комманд

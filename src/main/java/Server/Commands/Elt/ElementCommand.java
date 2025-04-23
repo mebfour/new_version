@@ -1,7 +1,7 @@
-package Commands.Elt;
+package Server.Commands.Elt;
 
-import Commands.Command;
-import Domain.Route;
+import Server.Commands.Command;
+import Objects.Route;
 
 /**
  * Интерфейс для команд, работающих с элементами
